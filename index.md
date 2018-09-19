@@ -35,9 +35,8 @@
 
 <hr />
 <h2 id="address">Address</h2>
-<p> Bolinjingu,Central South University,Railway Campus,<br /> 
- Changsha, Hunan, China,<br /> 
- 410075</p>
+<p> Changsha, Hunan, China,410075<br /> 
+</p>
 
 <hr />
 <h2 id="email">Email</h2>
@@ -55,7 +54,7 @@
 <hr />
 <h2 id="technical-experience">Technical Experience</h2>
 <p> I  used to work as a hardware engineer for a year. The main work is to design arm and x86-based single board computers.
-</a><br /></p>
+<br /></p>
 
 
       
