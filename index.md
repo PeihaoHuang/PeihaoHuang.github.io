@@ -25,7 +25,7 @@
       <h1><a href="https://PeihaoHuang.github.io/">Welcome to PeihaoHuang's Page!</a></h1>
       
 
-      <p><img src="11.jpg" align="left" height="180px" width="180px" /></p>
+      <p><img src="https://PeihaoHuang.github.io/11.png" align="left" height="180px" width="180px" /></p>
 
 <h1 id="Peihao-Huang黄培浩"> Peihao Huang（黄培浩）</h1>
 <p> Graduate Student<br />
